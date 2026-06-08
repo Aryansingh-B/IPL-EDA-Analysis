@@ -128,4 +128,4 @@ jupyter notebook notebooks/ipl_eda.ipynb
 ## Connect With Me
 
 **Aryan Singh Bais**  
-[GitHub](https://github.com/Aryansingh-B) · [LinkedIn](https://www.linkedin.com/in/aryansinghbais8/) · [Kaggle](https://www.kaggle.com/)
+[GitHub](https://github.com/Aryansingh-B) · [LinkedIn](https://www.linkedin.com/in/aryansinghbais8/) · [Kaggle](https://www.kaggle.com/code/aryansinghbais/notebooke2eda18b01)
